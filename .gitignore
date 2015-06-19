@@ -1,6 +1,9 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+# Executables
+*.exe
+*.out
+
+# Data Files
+*.dat
 
 # Folder config file
 Desktop.ini
